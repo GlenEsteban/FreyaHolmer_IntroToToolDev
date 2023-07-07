@@ -1,3 +1,18 @@
 ExplosiveBarrel.cs.meta
 ExplosiveBarrelSO.cs.meta
 ExplosiveBarrelManager.cs.meta
+Editor.meta
+Scenes.meta
+Scriptable Objects.meta
+Scripts.meta
+Scenes/FreyaHolmer_IntroToToolDev.unity
+.gitignore
+Scenes/FreyaHolmer_IntroToToolDev.unity.meta
+Scriptable Objects/Blue Barrel.asset.meta
+Scriptable Objects/Green Barrel.asset.meta
+Editor/ExplosiveBarrelEditor.cs.meta
+.gitignore
+Scriptable Objects/Blue Barrel.asset
+Scriptable Objects/Green Barrel.asset
+Scriptable Objects/Red Barrel.asset
+Scriptable Objects/Red Barrel.asset.meta
